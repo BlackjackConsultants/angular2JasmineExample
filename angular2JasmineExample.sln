@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "angular2JasmineExample", "a
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{2FAE59FA-2CE5-4397-8B01-6C1A0B010153}"
 	ProjectSection(SolutionItems) = preProject
-		Testing Types.md = Testing Types.md
+		docs\Testing Types.md = docs\Testing Types.md
 	EndProjectSection
 EndProject
 Global
